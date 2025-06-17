@@ -1,0 +1,20 @@
+Date: 16/6/2025
+Time: 18:12
+Phone Number: +919999999999
+Message: Hello from Python via pywhatkit!
+--------------------
+Date: 16/6/2025
+Time: 18:13
+Phone Number: +918888888888
+Message: Reminder: Workshop is on Sunday!
+--------------------
+Date: 16/6/2025
+Time: 18:15
+Phone Number: +9909732024
+Message: Hello from Python via pywhatkit!
+--------------------
+Date: 16/6/2025
+Time: 18:15
+Phone Number: +9714381057
+Message: Reminder: Workshop is on Sunday!
+--------------------
